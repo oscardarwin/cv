@@ -9,7 +9,7 @@ Probability Specialist, Software Engineer
 | __E-Mail__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
 
-![Profile Picture](/cv/assets/profile.jpg)
+![Profile Picture](/docs/assets/profile.jpg)
 
 ## Currently
 
