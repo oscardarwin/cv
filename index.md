@@ -4,7 +4,7 @@ title: Oscar Darwin's CV
 ---
 
 # Oscar Darwin
-Probability Theory Specialist, Software Developer
+Probability Theory Specialist, Software Engineer
 
 | __E-Mail__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
