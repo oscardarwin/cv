@@ -43,16 +43,15 @@ _R&D Specialist_
 __Somo Global__
 London, UK
 _Data Scientist_
-
 In this job I worked with PHP, Python, Java, Bash script, Symfony2 PHP framework, Apache Pig script and Hadoop. 
 
 ## Publications
 
 __On the Sequential Probability Ratio Test in Hidden Markov Models__
-Published in CONCUR (https://doi.org/10.4230/LIPIcs.CONCUR.2022.9)
+Published in [CONCUR 2022](https://doi.org/10.4230/LIPIcs.CONCUR.2022.9)
 
 __Equivalence of Hidden Markov Models with Continuous Observations__
-Published in FSTTCS (https://doi.org/10.4230/LIPIcs.FSTTCS.2020.43)
+Published in [FSTTCS 2020](https://doi.org/10.4230/LIPIcs.FSTTCS.2020.43)
 
-__Non-optimality of the Greedy Algorithm for Subspace Orderings in the Method of Alternating Projections__ Published in Results In Mathematics (https://doi.org/10.1007/s00025-017-0721-5).
+__Non-optimality of the Greedy Algorithm for Subspace Orderings in the Method of Alternating Projections__ Published in [Results In Mathematics](https://doi.org/10.1007/s00025-017-0721-5).
 
