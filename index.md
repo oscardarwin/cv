@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Oscar Darwin's CV
 ---
 
 # Oscar Darwin
