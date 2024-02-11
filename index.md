@@ -42,5 +42,4 @@ _Data Scientist_
 
 In this job I worked with PHP, Python, Java, Bash script, Symfony2 PHP framework, Apache Pig script and Hadoop. 
 
-
-- `Unity3D, C#, Objective C` : [github.com/eralpkaraduman/LennyTTSUnity](https://github.com/eralpkaraduman/LennyTTSUnity)
+LennyTTSUnity)
