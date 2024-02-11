@@ -25,23 +25,34 @@ __Oxford University, Masters in Mathematics and Computer Science.__
 ## Occupation
 
 `October 2022 - now`
-__understand.ai__, Karlsruhe, Germany  
+__understand.ai__
+Karlsruhe, Germany  
 _Machine Learning Engineer_
 
 `June 2021 - March 2022`
-__Oxford LawTech Education Program__, Oxford, UK
+__Oxford LawTech Education Program__
+Oxford, UK
 _Researcher_
 
 `July 2017 - September 2017`
-__Grakn Labs Ltd__, London, UK
+__Grakn Labs Ltd__
+London, UK
 _R&D Specialist_
 
-## Writings
-
-
-
 `July 2013 - October 2014`
-__Somo Global__, London, UK
+__Somo Global__
+London, UK
 _Data Scientist_
 
 In this job I worked with PHP, Python, Java, Bash script, Symfony2 PHP framework, Apache Pig script and Hadoop. 
+
+## Publications
+
+__On the Sequential Probability Ratio Test in Hidden Markov Models__
+Published in CONCUR (https://doi.org/10.4230/LIPIcs.CONCUR.2022.9)
+
+__Equivalence of Hidden Markov Models with Continuous Observations__
+Published in FSTTCS (https://doi.org/10.4230/LIPIcs.FSTTCS.2020.43)
+
+__Non-optimality of the Greedy Algorithm for Subspace Orderings in the Method of Alternating Projections__ Published in Results In Mathematics (https://doi.org/10.1007/s00025-017-0721-5).
+
