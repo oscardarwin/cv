@@ -2,6 +2,11 @@
 layout: default
 title: Oscar Darwin's CV
 ---
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 # Oscar Darwin
 Probability Specialist, Software Engineer
