@@ -10,7 +10,7 @@ td, th {
 
 # Oscar Darwin
 
-<img align="right" src="docs/assets/profile.jpg" width="220px" />
+<img align="right" src="docs/assets/profile.jpg" width="250px" />
 
 Probability Specialist, Software Engineer
 
