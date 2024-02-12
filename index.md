@@ -11,7 +11,7 @@ td, th {
 # Oscar Darwin
 Probability Specialist, Software Engineer
 
-<img align="right" src="docs/assets/profile.jpg" width="600" />
+<img align="right" src="docs/assets/profile.jpg" width="100" />
 
 | __E-Mail:__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn:__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
