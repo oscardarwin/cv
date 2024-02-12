@@ -11,6 +11,8 @@ Probability Specialist, Software Engineer
 
 {% include picture_and_info.html image_path="docs/assets/profile.jpg" title="Some title text" description="Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles." %}
 
+![alt](docs/assets/profile.jpg) | Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles.
+
 ## Education
 
 `2018-2023` __PhD Computer Science__, Oxford University
