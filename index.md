@@ -44,5 +44,5 @@ Published in [CONCUR 2022](https://doi.org/10.4230/LIPIcs.CONCUR.2022.9)
 __Equivalence of Hidden Markov Models with Continuous Observations__  
 Published in [FSTTCS 2020](https://doi.org/10.4230/LIPIcs.FSTTCS.2020.43)
 
-__Non-optimality of the Greedy Algorithm for Subspace Orderings in the Method of Alternating Projections__   Published in [Results In Mathematics](https://doi.org/10.1007/s00025-017-0721-5).
+__Non-optimality of the Greedy Algorithm for Subspace Orderings in the Method of Alternating Projections__   Published in [Results In Mathematics 2017](https://doi.org/10.1007/s00025-017-0721-5).
 
