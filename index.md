@@ -8,6 +8,7 @@ Probability Specialist, Software Engineer
 
 | __E-Mail__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
+
 ![Profile Picture](/cv/docs/assets/profile.jpg){: style="float: right"}
 
 ## Currently
@@ -26,7 +27,7 @@ My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c6
 
 `10.2022 - now` __Machine Learning Engineer__, understand.ai, Karlsruhe, Germany    
 
-We make automatically generated training data for autonomous vehicles. In particular, I was on the team that built an object detection model using combined camera and LIDAR data.
+We make AI generated training data for autonomous vehicles. In particular, I was on the team that built an object detection model using combined camera and LIDAR data.
 
 `July 2017 - September 2017` __R&D Specialist__, Grakn Labs Ltd., London, UK  
   
