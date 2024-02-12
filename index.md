@@ -9,12 +9,13 @@ td, th {
 </style>
 
 # Oscar Darwin
+
+<img align="right" src="docs/assets/profile.jpg" width="200px" />
+
 Probability Specialist, Software Engineer
 
 | __E-Mail:__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn:__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
-
-<img align="right" src="docs/assets/profile.jpg" width="200px" />
 
 Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles. 
 
