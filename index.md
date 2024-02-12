@@ -8,8 +8,7 @@ Probability Specialist, Software Engineer
 
 | __E-Mail__   | [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)|
 | __LinkedIn__ | [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)|
-
-![alt](docs/assets/profile.jpg) | Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles.
+| ![alt](docs/assets/profile.jpg) | Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles. |
 
 ## Education
 
