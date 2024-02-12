@@ -2,15 +2,10 @@
 layout: default
 title: Oscar Darwin's CV
 ---
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
+<img align="right" src="docs/assets/profile.jpg" width="350px" />
 
 # Oscar Darwin
-
-<img align="right" src="docs/assets/profile.jpg" width="270px" />
 
 Probability Specialist, Software Engineer
 
