@@ -12,13 +12,13 @@ Probability Specialist, Software Engineer
 __E-Mail:__ [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)  
 __LinkedIn:__ [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)
 
-Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI generated training data for autonomous vehicles. 
+Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI-generated training data for autonomous vehicles. 
 
 ## Education
 
 `2018-2023` __PhD Computer Science__, Oxford University
 
-My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models. These models are probabalistic state based transition systems that emit a partially observable trace and aim to model the semi-random execution of computer programs. My PhD was about the comparison of two such models. In particular, when one can prove that two models behave probalistically indentically and when, despite all randomness, one can tell them apart.
+My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models. As well as modelling real world data with approximately state-based structure, these models may also be used to model the semi-random execution of computer programs. My PhD was about the comparison of two such models: when they behave probalistically indentically and when one can distinguish them.
 
 `2014-2018` __Masters in Mathematics and Computer Science__, Oxford University
 
@@ -26,7 +26,7 @@ My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c6
 
 `10.2022 - now` __Machine Learning Engineer__, understand.ai, Karlsruhe, Germany    
 
-We make AI generated training data for autonomous vehicles. In particular, I was on the team that built an object detection model using combined camera and LIDAR data.
+I was on the team that built an object detection model using combined camera and LIDAR data. Moreover, I was heavily involved in designing a new pricing model for the product in order to create the right incentives inside our company and also with our partner companies. I worked primarily with python including numpy, bigquery sql, pytorch and tensorflow. 
 
 `July 2017 - September 2017` __R&D Specialist__, Grakn Labs Ltd., London, UK  
   
