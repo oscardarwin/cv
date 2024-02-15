@@ -12,13 +12,13 @@ Probability Specialist, Software Engineer
 __E-Mail:__ [oscar.henry.darwin@gmail.com](mailto:eralp@eralpkaraduman.com)  
 __LinkedIn:__ [linkedin.com/in/oscar-darwin](https://www.linkedin.com/in/oscar-darwin-44189076/)
 
-Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI-generated training data for autonomous vehicles. 
+Based in Freiburg im Breisgau, Germany. My specialities are Probability, Software Verification and Machine Learning. I am currently building AI-generated training data for autonomous vehicles. 
 
 ## Education
 
 `2018-2023` __PhD Computer Science__, Oxford University
 
-My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models in the context of probabilistic runtime verification. My research focused on the comparison of two such models: I looked at when they behave probalistically indentically versus when they can be distinguished from each other.
+My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models in the context of the execution of computer programs. My research focused on the comparison of two such models. I developed two algorithms. The first can decide whether two random programs have identical execution patterns. The second can decide whether two programs are distinguishable, given enough observations. Finally, I discovered how many observations the optimum distinguishing procedure takes.
 
 `2014-2018` __Masters in Mathematics and Computer Science__, Oxford University
 
