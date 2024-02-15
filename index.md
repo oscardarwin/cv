@@ -18,7 +18,7 @@ Based in Freiburg Im Breisgau, Germany. My specialities are Probability, Softwar
 
 `2018-2023` __PhD Computer Science__, Oxford University
 
-My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models. As well as modelling real world data with approximately state-based structure, these models may also be used to model the semi-random execution of computer programs. My PhD was about the comparison of two such models: when they behave probalistically indentically and when one can distinguish them.
+My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c692) concerned Hidden Markov Models in the context of probabilistic runtime verification. My research focused on the comparison of two such models: I looked at when they behave probalistically indentically versus when they can be distinguished from each other.
 
 `2014-2018` __Masters in Mathematics and Computer Science__, Oxford University
 
@@ -26,7 +26,7 @@ My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c6
 
 `10.2022 - now` __Machine Learning Engineer__, understand.ai, Karlsruhe, Germany    
 
-I was on the team that built an object detection model using combined camera and LIDAR data. Moreover, I was heavily involved in designing a new pricing model for the product in order to create the right incentives inside our company and also with our partner companies. I worked primarily with python including numpy, bigquery sql, pytorch and tensorflow. 
+I was on the team that built an 3D object detection model using combined camera and LIDAR data. Moreover, I was heavily involved in designing a new pricing model for the product in order to create the right incentives inside our company and also with our partner companies. I worked primarily with python including numpy, bigquery sql, pytorch and tensorflow and nix.
 
 `July 2017 - September 2017` __R&D Specialist__, Grakn Labs Ltd., London, UK  
   
