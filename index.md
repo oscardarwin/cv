@@ -30,7 +30,7 @@ I was on the team that built a 3D object detection model using combined camera a
 
 `July 2017 - September 2017` __R&D Specialist__, Grakn Labs Ltd., London, UK  
   
-This summer internship was for a startup that makes next generation graphical database technology. My focus was on implementing novel algorithms for extrapolating probabilistic relationships between entries in the database.
+This summer internship was for a startup that makes next generation graph database technology. My focus was on implementing novel algorithms for extrapolating probabilistic relationships between entries in the database.
 
 `July 2013 - October 2014` __Data Scientist__, Somo Global, London, UK
 
