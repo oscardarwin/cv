@@ -26,7 +26,7 @@ My [thesis](https://ora.ox.ac.uk/objects/uuid:b77662da-2fed-4e1b-8a9f-58612f29c6
 
 `10.2022 - now` __Machine Learning Engineer__, understand.ai, Karlsruhe, Germany    
 
-I was on the team that built an 3D object detection model using combined camera and LIDAR data. Moreover, I was heavily involved in designing a new pricing model for the product in order to create the right incentives inside our company and also with our partner companies. I worked primarily with python including numpy, bigquery sql, pytorch and tensorflow and nix.
+I was on the team that built a 3D object detection model using combined camera and LIDAR data. Moreover, I was heavily involved in designing a new pricing model for the product in order to create the right incentives inside our company and also with our partner companies. I worked primarily with python including numpy, bigquery sql, nix, pytorch and tensorflow.
 
 `July 2017 - September 2017` __R&D Specialist__, Grakn Labs Ltd., London, UK  
   
